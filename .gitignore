@@ -1,0 +1,16 @@
+**/.gradle/
+**/.kotlin/
+**/.idea/
+**/build/
+**/.cxx/
+**/.externalNativeBuild/
+**/local.properties
+**/captures/
+**/documentacion/build/
+**/documentacion/build_fiel/
+*.apk
+*.aab
+*.jks
+*.keystore
+*.p12
+*.pem

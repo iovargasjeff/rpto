@@ -1,0 +1,2 @@
+# Agrega esta propiedad a local.properties y conserva la línea sdk.dir del equipo.
+MAPS_API_KEY=TU_CLAVE_DE_GOOGLE
